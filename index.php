@@ -18,7 +18,7 @@
 
 <header class="header">
 
-    <a href="#" class="logo"> <i class="fa-solid fa-camera"></i> Testing Of CICD pipepline</a>
+    <a href="#" class="logo"> <i class="fa-solid fa-camera"></i> Saheli Digital Studios</a>
 
     <nav class="navbar">
         <a href="#home">home</a>
